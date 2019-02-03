@@ -1,10 +1,7 @@
 "use strict"
 
 /**
- * I'm not sure that I understood it properly
- * so I just wrote how I think works bind function.
- *
- * Also I use console.log instead of alert.
+ * Here is console.log using instead of alert.
  */
 
 const func1 = function(message) {
